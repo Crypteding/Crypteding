@@ -1,7 +1,7 @@
 <h1 align="center">What's Up?</h1>
 
 <div align="center">
-  <img src="https://count.getloli.com/@:s4crying?theme=gelbooru&padding=7&scale=1&align=top&pixelated=0&darkmode=0" />
+  <img src="https://count.getloli.com/@:crypteding?theme=gelbooru&padding=7&scale=1&align=top&pixelated=0&darkmode=0" />
 </div>
 
 ###
@@ -11,7 +11,7 @@
   <a href="https://youtube.com/@crypteding"><img src="https://img.shields.io/badge/YouTube-58a6ff?style=for-the-badge&logo=youtube&logoColor=white" height="45" /></a>&nbsp;
   <a href="https://instagram.com/@crypted.ing"><img src="https://img.shields.io/badge/Instagram-58a6ff?style=for-the-badge&logo=instagram&logoColor=white" height="45" /></a>&nbsp;
   <a href="https://tiktok.com/@crypteding"><img src="https://img.shields.io/badge/TikTok-58a6ff?style=for-the-badge&logo=tiktok&logoColor=white" height="45" /></a>&nbsp;
-  <a href="https://x.com/@s4crying"><img src="https://img.shields.io/badge/X-58a6ff?style=for-the-badge&logo=x&logoColor=white" height="45" /></a>&nbsp;
+  <a href="https://x.com/@crypteding"><img src="https://img.shields.io/badge/X-58a6ff?style=for-the-badge&logo=x&logoColor=white" height="45" /></a>&nbsp;
   <a href="https://kick.com/crypteding"><img src="https://img.shields.io/badge/Kick-58a6ff?style=for-the-badge&logo=kick&logoColor=white" height="45" /></a>&nbsp;
   <a href="https://bsky.app/profile/s4cry.ing"><img src="https://img.shields.io/badge/Bluesky-58a6ff?style=for-the-badge&logo=bluesky&logoColor=white" height="45" /></a>&nbsp;
   <a href="https://discord.gg/faxxWtQZX6"><img src="https://img.shields.io/badge/Discord-58a6ff?style=for-the-badge&logo=discord&logoColor=white" height="45" /></a>&nbsp;
@@ -22,15 +22,15 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s4crying&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s4crying&layout=compact&langs_count=6&theme=github_dark&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=crypteding&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crypteding&layout=compact&langs_count=6&theme=github_dark&hide_border=true&count_private=true" height="180" />
 </div>
 
 ###
 
 <h3 align="center">🕹️ Contribution Graph</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s4crying&theme=github-compact&bg_color=0d1117&hide_border=true&color=58a6ff" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crypteding&theme=github-compact&bg_color=0d1117&hide_border=true&color=58a6ff" width="100%" />
 </div>
 
 ###
