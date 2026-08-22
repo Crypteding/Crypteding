@@ -22,7 +22,7 @@
 
 <h3 align="center">💰 Support Me</h3>
 <div align="center">
-  <a href="https://donate.bynogame.com/s4crying">
+  <a href="https://donate.bynogame.com/crypted">
     <img src="https://img.shields.io/badge/ByNoGame-ED502F?style=for-the-badge&logo=target&logoColor=white" height="55" />
   </a>
 </div>
