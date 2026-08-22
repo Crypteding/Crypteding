@@ -20,21 +20,6 @@
 
 ###
 
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crypteding&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crypteding&layout=compact&langs_count=6&theme=github_dark&hide_border=true&count_private=true" height="180" />
-</div>
-
-###
-
-<h3 align="center">🕹️ Contribution Graph</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crypteding&theme=github-compact&bg_color=0d1117&hide_border=true&color=58a6ff" width="100%" />
-</div>
-
-###
-
 <h3 align="center">💰 Support Me</h3>
 <div align="center">
   <a href="https://donate.bynogame.com/s4crying">
