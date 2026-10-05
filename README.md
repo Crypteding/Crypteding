@@ -14,7 +14,7 @@
   <a href="https://x.com/@crypteding"><img src="https://img.shields.io/badge/X-58a6ff?style=for-the-badge&logo=x&logoColor=white" height="45" /></a>&nbsp;
   <a href="https://kick.com/crypteding"><img src="https://img.shields.io/badge/Kick-58a6ff?style=for-the-badge&logo=kick&logoColor=white" height="45" /></a>&nbsp;
   <a href="https://bsky.app/profile/s4cry.ing"><img src="https://img.shields.io/badge/Bluesky-58a6ff?style=for-the-badge&logo=bluesky&logoColor=white" height="45" /></a>&nbsp;
-  <a href="https://discord.gg/faxxWtQZX6"><img src="https://img.shields.io/badge/Discord-58a6ff?style=for-the-badge&logo=discord&logoColor=white" height="45" /></a>&nbsp;
+  <a href="https://discord.gg/tN6kEktPpc"><img src="https://img.shields.io/badge/Discord-58a6ff?style=for-the-badge&logo=discord&logoColor=white" height="45" /></a>&nbsp;
   <a href="mailto:mail@s4cry.ing"><img src="https://img.shields.io/badge/Email-58a6ff?style=for-the-badge&logo=gmail&logoColor=white" height="45" /></a>
 </div>
 
@@ -22,7 +22,7 @@
 
 <h3 align="center">💰 Support Me</h3>
 <div align="center">
-  <a href="https://donate.bynogame.com/crypted">
-    <img src="https://img.shields.io/badge/ByNoGame-ED502F?style=for-the-badge&logo=target&logoColor=white" height="55" />
+  <a href="https://bynogame.com/destekle/crypted">
+    <img src="https://cdn.modrinth.com/data/cached_images/0f5a2c73d73f3709e1d0ba6789899781d596cebb.png" height="55" />
   </a>
 </div>
